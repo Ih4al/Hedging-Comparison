@@ -1,6 +1,0 @@
-A simple Static vs Dynamic hedging ratio comparison for gasoline spot and future prices. This project was done as a simple R learning exercise in my spare time. If you got this far reading my CV, i already appreciate you.
-
-Best regards, 
-
-Vasilis - Romanos Daskalinas
-rdaskalinas@gmail.om
