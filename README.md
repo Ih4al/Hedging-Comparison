@@ -9,8 +9,6 @@ The dataset used in this project contains the following columns:
 - `NY_spot`: New York spot prices of gasoline.
 - `NY_Futures`: New York futures prices of gasoline.
 
-Ensure your dataset is named `Gasoline_spot` and has the columns mentioned above.
-
 ## Requirements
 
 The script requires the following R packages:
